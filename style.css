@@ -22,10 +22,10 @@ iframe {
 
 
 .banner {
-    background: #009579;
+    background: #06273A;
     position: absolute;
     width: 100%;
-    height: 50px;
+    height: max-content;
 }
 
 .banner__content {
@@ -35,6 +35,7 @@ iframe {
     margin: 0 auto;
     display: flex;
     align-items: center;
+    text-align: center;
 }
 
 .banner__text {
